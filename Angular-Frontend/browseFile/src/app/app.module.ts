@@ -10,7 +10,7 @@ const DEFAULT_DROPZONE_CONFIG: DropzoneConfigInterface = {
   // Change this to your upload POST address:
    url: 'http://127.0.0.1:5050/upload',
    maxFilesize: 2000,
-  //  acceptedFiles: 'tar/*',
+   acceptedFiles: 'tar/*',
    chunkSize: 1000000,
    chunking: true,
    forceChunking: true,
