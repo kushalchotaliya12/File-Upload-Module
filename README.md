@@ -1,5 +1,4 @@
 # File-Upload-Module
-A file Upload module using Python Flask and Angular 7
 
 A demonstration of uploading and saving large files in chunks of variable size using mentioned technologies.
 
@@ -8,3 +7,9 @@ A demonstration of uploading and saving large files in chunks of variable size u
 
 ## Frontend Technology :
 - Angular 7
+
+## Characteristics
+- Type of file to be uploaded
+- Maximum number of files which can be uploaded
+- If the file to be uploaded in chunks or the normal way
+- number of chunks to be uploaded
